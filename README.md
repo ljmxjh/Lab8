@@ -1,4 +1,5 @@
 # Lab8
 
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+Jiaming Li\
+A15510584\
+jil002@ucsd.edu
